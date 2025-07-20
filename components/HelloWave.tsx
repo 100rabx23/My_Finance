@@ -7,7 +7,7 @@ import Animated, {
   withSequence,
   withTiming,
 } from 'react-native-reanimated';
-
+//wave it ok but not smooth make it more comfortable 
 import { ThemedText } from '@/components/ThemedText';
 
 export function HelloWave() {
