@@ -1,6 +1,6 @@
 import { SymbolView, SymbolViewProps, SymbolWeight } from 'expo-symbols';
 import { StyleProp, ViewStyle } from 'react-native';
-
+// react with all ui and ux
 export function IconSymbol({
   name,
   size = 24,
