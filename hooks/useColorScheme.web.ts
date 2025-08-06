@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import { useColorScheme as useRNColorScheme } from 'react-native';
 
 /**
- * To support static rendering, this value needs to be re
 export function useColorScheme() {
   const [hasHydrated, setHasHydrated] = useState(false);
 
