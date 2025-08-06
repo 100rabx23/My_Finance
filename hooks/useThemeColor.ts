@@ -1,5 +1,4 @@
-/**
- * Lea
+
 
 import { Colors } from '@/constants/Colors';
 import { useColorScheme } from '@/hooks/useColorScheme';
