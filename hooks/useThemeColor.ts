@@ -14,3 +14,4 @@ export function useThemeColor(
     return Colors[theme][colorName];
   }
 }
+//dark theme
